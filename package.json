@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "flames-app",
+=======
+  "name": "flames-backend",
+>>>>>>> 0109a68 (Initial commit)
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,6 +18,10 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+<<<<<<< HEAD
     "mongoose": "^8.10.2"
+=======
+    "pg": "^8.13.3"
+>>>>>>> 0109a68 (Initial commit)
   }
 }
